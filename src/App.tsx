@@ -14,11 +14,11 @@ export default function App() {
   return (
     <>
       <GlobalStyles />
+
       {subscriberSucess
         ? <Sucess setSubscriberSucess={setSubscriberSucess} />
         : <Main setSubscriberSucess={setSubscriberSucess} />
       }
-
     </>
   );
 }
