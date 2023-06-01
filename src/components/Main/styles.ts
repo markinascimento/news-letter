@@ -38,7 +38,7 @@ export const InformationsContainer = styled.div`
   flex: 1;
   align-items: center;
   justify-content: flex-start;
-  padding: 3rem 0;
+  padding-top: 2rem;
 
   .descriptions {
     min-width: 376px;
@@ -57,7 +57,7 @@ export const InformationsContainer = styled.div`
 export const ContainerTags = styled.div`
   width: 100%;
   margin-top: 2rem;
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
 
   .tag {
     display: flex;
