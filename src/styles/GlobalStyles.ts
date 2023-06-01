@@ -8,11 +8,10 @@ export default createGlobalStyle`
   }
 
   body {
-    font-size: 16px;
     font-family: 'Roboto', sans-serif;
     color: #232742;
     -webkit-font-smoothing: antialiased;
-    background: '#F0F0F0'
+    background: #F1F1F1
   }
 
   button {
